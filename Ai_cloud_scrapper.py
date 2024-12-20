@@ -1,0 +1,1 @@
+"""This repository is designed to develop a cloud-native application on Microsoft Azure. The application features a web scraper agent that can be seamlessly adapted and deployed for any website."""
